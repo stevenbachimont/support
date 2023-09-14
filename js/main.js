@@ -10,7 +10,7 @@ new Vue({
         'hdmi': ['Avez-vous un mac ou un PC?', 'Assurez-vous que le câble est branché.'],
         'écran': ['Branchez le câble hdmi.'],
         'affichage': ['Avez-vous un PC ou un MAC?'],
-         'A54': ['Appuyer sur l\’écran pour démarrer l\’amphi', 'branchez le câble HDMI pour diffuser votre image'],
+         'A54': ['Vérifiez si le câble hdmi est bien branché à votre appareil.', 'Assurez-vous que la salle soit démmarrée via l\'interrupteur mural.'],
       };
 
       const phrasesCles = {
