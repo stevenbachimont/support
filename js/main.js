@@ -10,10 +10,12 @@ new Vue({
         'hdmi': ['Avez-vous un mac ou un PC?', 'Assurez-vous que le câble est branché.'],
         'écran': ['Branchez le câble hdmi.'],
         'affichage': ['Avez-vous un PC ou un MAC?'],
+         'A54': ['Appuyer sur l\’écran pour démarrer l\’amphi', 'Branchez le câble HDMI pour diffuser votre image', 'Branchez le câble USB pour utiliser les caméras', 'Start Presentation si vous ne souhaitez pas utiliser les caméras', 'Start Web Conference si vous souhaitez utiliser les caméras' ],
       };
 
       const phrasesCles = {
-        'problème d\'affichage': ['Vérifiez le câble hdmi et redémarrez votre appareil.', 'Assurez-vous que le moniteur est allumé.'],
+        'problème d\'affichage': ['Vérifiez si le câble hdmi est bien branché à votre appareil.', 'Assurez-vous que la salle soit démmarrée via l\'interrupteur mural.'],
+         'problème d\'hdmi': ['Vérifiez le câble hdmi et redémarrez votre appareil.', 'Assurez-vous que le moniteur est allumé.'],
         'aucun signal': ['Assurez-vous que le câble hdmi est bien branché.'],
         'support technique': ['Contactez notre support technique au 020000.', 'Nous sommes disponibles du lundi au vendredi.'],
         'ça marche pas': ['Contactez le support.', 'Essayez de redémarrer votre appareil.'],
