@@ -10,7 +10,7 @@ new Vue({
         'hdmi': ['Avez-vous un mac ou un PC?', 'Assurez-vous que le câble est branché.'],
         'écran': ['Branchez le câble hdmi.'],
         'affichage': ['Avez-vous un PC ou un MAC?'],
-         'A54': ['Appuyer sur l\’écran pour démarrer l\’amphi', 'Branchez le câble HDMI pour diffuser votre image', 'Branchez le câble USB pour utiliser les caméras', 'Start Presentation si vous ne souhaitez pas utiliser les caméras', 'Start Web Conference si vous souhaitez utiliser les caméras' ],
+         'A54': ['Appuyer sur l\’écran pour démarrer l\’amphi', 'Branchez le câble HDMI pour diffuser votre image', 'Branchez le câble USB pour utiliser les caméras', 'Start Presentation si vous ne souhaitez pas utiliser les caméras', 'Start Web Conference si vous souhaitez utiliser les caméras'],
       };
 
       const phrasesCles = {
